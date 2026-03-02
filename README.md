@@ -87,10 +87,15 @@ Customer-wise Revenue Distribution
 📊 Analysis Performed
 
 ✔ Employee performance analysis
-/n✔ Regional sales distribution
+
+✔ Regional sales distribution
+
 ✔ Delivery efficiency tracking
+
 ✔ Customer contribution analysis
+
 ✔ Product category performance
+
 ✔ Order fulfillment monitoring
 
 🛠 Tools & Technologies
